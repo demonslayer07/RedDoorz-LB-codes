@@ -1,0 +1,17 @@
+Database Name : - hotel.sql
+user name : - Admin
+password  : - 1234
+
+Note:
+
+Open a browser and go to URL “http://localhost/phpprog/Hotel/”
+
+For admin panel, go to URL ” http://localhost/phpprog/Hotel/admin/index.php”
+
+For the project demo, you can have look at the video below:
+
+https://youtu.be/F8J0sWFZNFQ
+project demo
+
+
+ENJOY DDDD
